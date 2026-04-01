@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi, I'm Pranay 👋
 
-<!--
-**Pranaykumarjha/PranayKumarJha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer focused on building real-world, scalable web applications
+🚀 Currently working on live data systems, APIs, and modern frontend architectures
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🔥 CoinPulse — Real-Time Crypto Dashboard
+
+A live cryptocurrency tracking platform with real-time price updates and market insights.
+
+* WebSocket-based live data updates
+* Interactive UI for market tracking
+* Built with performance-focused architecture
+
+👉 Tech: Next.js, WebSockets, CoinGecko API
+
+---
+
+### 🌐 Personal Portfolio
+
+A clean, responsive portfolio website to showcase projects and skills.
+
+👉 Tech: React, Next.js,Java
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+React • Next.js • Tailwind CSS
+
+### Backend
+
+Node.js • REST APIs
+
+### Tools & Platforms
+
+Git • GitHub • Vercel
+
+---
+
+## 📊 What I'm Focused On
+
+* Building **production-level projects**
+* Improving **DSA & problem-solving**
+* Preparing for **software engineering internships**
+
+---
+
+
+## 📫 Connect With Me
+
+* 🌐 Portfolio: https://jocular-blancmange-d2b8ce.netlify.app/
+* 💼 LinkedIn: linkedin.com/in/pranay-jha-530266328/
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy debugging complex issues and turning ideas into working products 🚀
