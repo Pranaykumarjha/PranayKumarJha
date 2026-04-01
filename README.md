@@ -9,6 +9,10 @@
 
 ### 🔥 CoinPulse — Real-Time Crypto Dashboard
 
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square\&logo=nextdotjs)
+![WebSocket](https://img.shields.io/badge/WebSocket-live-green?style=flat-square)
+![API](https://img.shields.io/badge/API-CoinGecko-blue?style=flat-square)
+
 A live cryptocurrency tracking platform with real-time price updates and market insights.
 
 * WebSocket-based live data updates
@@ -21,9 +25,12 @@ A live cryptocurrency tracking platform with real-time price updates and market 
 
 ### 🌐 Personal Portfolio
 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square\&logo=nextdotjs)
+
 A clean, responsive portfolio website to showcase projects and skills.
 
-👉 Tech: React, Next.js,Java
+👉 Tech: React, Next.js
 
 ---
 
@@ -31,15 +38,20 @@ A clean, responsive portfolio website to showcase projects and skills.
 
 ### Frontend
 
-React • Next.js • Tailwind CSS
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square\&logo=tailwind-css\&logoColor=white)
 
 ### Backend
 
-Node.js • REST APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
+![REST API](https://img.shields.io/badge/API-REST-blue?style=flat-square)
 
 ### Tools & Platforms
 
-Git • GitHub • Vercel
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
 
 ---
 
@@ -51,11 +63,10 @@ Git • GitHub • Vercel
 
 ---
 
-
 ## 📫 Connect With Me
 
 * 🌐 Portfolio: https://jocular-blancmange-d2b8ce.netlify.app/
-* 💼 LinkedIn: linkedin.com/in/pranay-jha-530266328/
+* 💼 LinkedIn: https://linkedin.com/in/pranay-jha-530266328/
 
 ---
 
