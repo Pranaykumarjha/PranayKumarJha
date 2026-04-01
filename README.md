@@ -63,6 +63,16 @@ A clean, responsive portfolio website to showcase projects and skills.
 
 ---
 
+## 📜 Certifications
+
+* 🏅 Generative AI for Everyone — DeepLearning.AI
+  [View Certificate](https://coursera.org/share/82569b07ad9fc26a70096b27d5571d42)
+
+* ☁️ AWS Cloud Practitioner Essentials — Amazon Web Services
+  [View Certificate](https://coursera.org/share/192778d9eb00b8a405ddfa72e8ebef65)
+
+---
+
 ## 📫 Connect With Me
 
 * 🌐 Portfolio: https://jocular-blancmange-d2b8ce.netlify.app/
