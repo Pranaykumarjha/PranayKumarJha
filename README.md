@@ -72,6 +72,11 @@ A clean, responsive portfolio website to showcase projects and skills.
   [View Certificate](https://coursera.org/share/192778d9eb00b8a405ddfa72e8ebef65)
 
 ---
+## 🧠 LeetCode
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/H8KxPFGOTA?theme=dark&font=baloo&ext=heatmap" />
+</p>
 
 ## 📫 Connect With Me
 
