@@ -19,29 +19,37 @@
 
 ## 🚀 Featured Projects
 
-### 🔥 CoinPulse — Real-Time Crypto Dashboard
+### 🧠 Converso — Real-Time AI Learning Platform
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs"/>
-  <img src="https://img.shields.io/badge/WebSocket-live-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/API-CoinGecko-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Voice-AI-purple?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OpenAI-powered-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Supabase-DB-blue?style=flat-square"/>
 </p>
 
 <p align="center">
-A live cryptocurrency tracking platform with real-time price updates and market insights.
+A real-time AI teaching platform with voice + text companions for personalized learning.
 </p>
 
 <p align="center">
-⚡ WebSocket-based live data &nbsp;&nbsp;•&nbsp;&nbsp;
-📊 Interactive UI &nbsp;&nbsp;•&nbsp;&nbsp;
-🚀 Performance-focused architecture
+🎧 Voice-based AI sessions &nbsp;&nbsp;•&nbsp;&nbsp;
+🧠 Custom AI companions &nbsp;&nbsp;•&nbsp;&nbsp;
+⚡ Real-time streaming UX
 </p>
 
 <p align="center">
-👉 <b>Tech:</b> Next.js, WebSockets, CoinGecko API
+👉 <b>Tech:</b> Next.js, VAPI AI, OpenAI, Supabase, Clerk
+</p>
+
+<p align="center">
+  <a href="https://full-stack-m551fscdg-pranay-kumar-jhas-projects.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Click%20Here-blue?style=for-the-badge" />
+  </a>
 </p>
 
 ---
+
 
 ### 🌐 Personal Portfolio
 
