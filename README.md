@@ -59,45 +59,84 @@ A clean, responsive portfolio website to showcase projects and skills.
 </p>
 
 ---
-
 ## 🛠 Tech Stack
 
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
 ### 💻 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,c,mysql" />
-</p>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</td>
+<td align="center" width="50%">
 
 ### 🎨 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nextjs" />
-</p>
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
 
 ### ⚙️ Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+
+</td>
+<td align="center">
 
 ### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
 
-### 🧰 Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
-</p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-### 🧠 Core Concepts
-<p align="center">
-  Data Structures & Algorithms &nbsp;&nbsp;•&nbsp;&nbsp;
-  OOP &nbsp;&nbsp;•&nbsp;&nbsp;
-  REST APIs &nbsp;&nbsp;•&nbsp;&nbsp;
-  DBMS &nbsp;&nbsp;•&nbsp;&nbsp;
-  OS &nbsp;&nbsp;•&nbsp;&nbsp;
-  Computer Networks
-</p>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🧰 Tools
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</td>
+<td align="center">
+
+### ☁️ Platforms
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
+</td>
+</tr>
+</table>
 
 ---
+
+### 🧠 Core Concepts
+
+<p align="center">
+🧩 Data Structures & Algorithms &nbsp;&nbsp;•&nbsp;&nbsp;
+⚙️ OOP &nbsp;&nbsp;•&nbsp;&nbsp;
+🌐 REST APIs &nbsp;&nbsp;•&nbsp;&nbsp;
+🗄️ DBMS &nbsp;&nbsp;•&nbsp;&nbsp;
+💻 OS &nbsp;&nbsp;•&nbsp;&nbsp;
+🔗 Computer Networks
+</p>
 
 ## 📊 GitHub Stats
 
