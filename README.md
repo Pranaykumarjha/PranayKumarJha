@@ -62,8 +62,39 @@ A clean, responsive portfolio website to showcase projects and skills.
 
 ## 🛠 Tech Stack
 
+### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mongodb,git,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=java,js,c,mysql" />
+</p>
+
+### 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nextjs" />
+</p>
+
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🧰 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
+
+### 🧠 Core Concepts
+<p align="center">
+  Data Structures & Algorithms &nbsp;&nbsp;•&nbsp;&nbsp;
+  OOP &nbsp;&nbsp;•&nbsp;&nbsp;
+  REST APIs &nbsp;&nbsp;•&nbsp;&nbsp;
+  DBMS &nbsp;&nbsp;•&nbsp;&nbsp;
+  OS &nbsp;&nbsp;•&nbsp;&nbsp;
+  Computer Networks
 </p>
 
 ---
