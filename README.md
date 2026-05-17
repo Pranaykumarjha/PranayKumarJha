@@ -1,133 +1,160 @@
-<!-- 🔥 FULL-WIDTH HEADER -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00F7FF&height=260&section=header&text=Pranay%20Kumar%20Jha&fontSize=45&fontAlignY=35&animation=fadeIn%20&descAlignY=55&descSize=20" width="100%"/>
-
-<!-- ⚡ Typing Animation -->
+<!-- ================================================= -->
+<!--                    HERO SECTION                    -->
+<!-- ================================================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=22&lines=Full+Stack+Developer;Building+Real+World+Projects;WebSockets+%7C+APIs+%7C+Frontend;Open+to+Internships" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Pranay%20Kumar%20Jha&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Builder%20•%20Real-Time%20Systems&descAlignY=58&descSize=18" width="100%"/>
 </p>
 
-<h1 align="center">Hi, I'm Pranay 👋</h1>
-
 <p align="center">
-💻 Full Stack Developer focused on building real-world, scalable web applications <br/>
-🚀 Currently working on live data systems, APIs, and modern frontend architectures
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Full+Stack+Applications;AI-Powered+Real-Time+Experiences;Clean+UI+%2B+Modern+Backend+Systems;Open+to+Software+Engineering+Internships"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+<!-- ================================================= -->
+<!--                       INTRO                        -->
+<!-- ================================================= -->
 
-### 🧠 Converso — Real-Time AI Learning Platform
+<h2 align="center">Hi, I'm Pranay 👋</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs"/>
-  <img src="https://img.shields.io/badge/Voice-AI-purple?style=flat-square"/>
-  <img src="https://img.shields.io/badge/OpenAI-powered-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Supabase-DB-blue?style=flat-square"/>
+💻 Full Stack Developer passionate about building scalable web applications, AI-powered products, and modern user experiences.
 </p>
 
 <p align="center">
-A real-time AI teaching platform with voice + text companions for personalized learning.
+🚀 Focused on production-ready projects, backend systems, APIs, real-time applications, and software engineering growth.
+</p>
+
+---
+
+<!-- ================================================= -->
+<!--                CODING ANIMATION                    -->
+<!-- ================================================= -->
+
+<p align="center">
+  <img width="430" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+</p>
+
+---
+
+<!-- ================================================= -->
+<!--                  QUICK STATS                       -->
+<!-- ================================================= -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00C2FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Interest-AI%20Applications-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Learning-System%20Design-1E90FF?style=for-the-badge"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+---
+
+## 🧠 Converso — AI Learning Platform
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai"/>
+  <img src="https://img.shields.io/badge/VAPI%20AI-7B61FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clerk-18181B?style=for-the-badge"/>
 </p>
 
 <p align="center">
-🎧 Voice-based AI sessions &nbsp;&nbsp;•&nbsp;&nbsp;
-🧠 Custom AI companions &nbsp;&nbsp;•&nbsp;&nbsp;
-⚡ Real-time streaming UX
+Real-time AI learning platform with voice + text interactions, adaptive learning systems, and modern streaming UX.
 </p>
 
 <p align="center">
-👉 <b>Tech:</b> Next.js, VAPI AI, OpenAI, Supabase, Clerk
+🎙️ AI Voice Conversations &nbsp;&nbsp;•&nbsp;&nbsp;
+⚡ Real-Time Streaming &nbsp;&nbsp;•&nbsp;&nbsp;
+🧠 Personalized Learning
 </p>
 
 <p align="center">
-  <a href="https://full-stack-m551fscdg-pranay-kumar-jhas-projects.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Click%20Here-blue?style=for-the-badge" />
+  <a href="YOUR_LIVE_LINK">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit-00C2FF?style=for-the-badge"/>
+  </a>
+
+  <a href="YOUR_GITHUB_LINK">
+    <img src="https://img.shields.io/badge/📂%20Source%20Code-GitHub-24292F?style=for-the-badge"/>
   </a>
 </p>
 
 ---
 
-
-### 🌐 Personal Portfolio
+## 🌐 Personal Portfolio
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
 </p>
 
 <p align="center">
-A clean, responsive portfolio website to showcase projects and skills.
+Modern developer portfolio showcasing projects, skills, certifications, and full-stack development work.
 </p>
 
 <p align="center">
-👉 <b>Tech:</b> React, Next.js
+🎨 Clean UI &nbsp;&nbsp;•&nbsp;&nbsp;
+📱 Responsive Design &nbsp;&nbsp;•&nbsp;&nbsp;
+⚡ Smooth Animations
+</p>
+
+<p align="center">
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Live-00C2FF?style=for-the-badge"/>
+  </a>
 </p>
 
 ---
-## 🛠 Tech Stack
+
+# 🛠 Tech Stack
 
 <table align="center">
 <tr>
-<td align="center" width="50%">
+<td valign="top" width="33%">
 
-### 💻 Languages
+## 💻 Languages
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-</td>
-<td align="center" width="50%">
-
-### 🎨 Frontend
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" /><br><br>
+  <img src="https://skillicons.dev/icons?i=js" /><br><br>
+  <img src="https://skillicons.dev/icons?i=ts" /><br><br>
+  <img src="https://skillicons.dev/icons?i=c" /><br><br>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
 </td>
-</tr>
 
-<tr>
-<td align="center">
+<td valign="top" width="33%">
 
-### ⚙️ Backend
+## 🎨 Frontend
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-
-</td>
-<td align="center">
-
-### 🗄️ Databases
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" /><br><br>
+  <img src="https://skillicons.dev/icons?i=css" /><br><br>
+  <img src="https://skillicons.dev/icons?i=react" /><br><br>
+  <img src="https://skillicons.dev/icons?i=nextjs" /><br><br>
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+</p>
 
 </td>
-</tr>
 
-<tr>
-<td align="center">
+<td valign="top" width="33%">
 
-### 🧰 Tools
+## ⚙️ Backend
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</td>
-<td align="center">
-
-### ☁️ Platforms
-
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" /><br><br>
+  <img src="https://skillicons.dev/icons?i=express" /><br><br>
+  <img src="https://skillicons.dev/icons?i=supabase" /><br><br>
+  <img src="https://skillicons.dev/icons?i=mongodb" /><br><br>
+  <img src="https://skillicons.dev/icons?i=firebase" />
+</p>
 
 </td>
 </tr>
@@ -135,71 +162,110 @@ A clean, responsive portfolio website to showcase projects and skills.
 
 ---
 
-### 🧠 Core Concepts
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+## ☁️ Cloud & Tools
 
 <p align="center">
-🧩 Data Structures & Algorithms &nbsp;&nbsp;•&nbsp;&nbsp;
-⚙️ OOP &nbsp;&nbsp;•&nbsp;&nbsp;
-🌐 REST APIs &nbsp;&nbsp;•&nbsp;&nbsp;
-🗄️ DBMS &nbsp;&nbsp;•&nbsp;&nbsp;
-💻 OS &nbsp;&nbsp;•&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" /><br><br>
+  <img src="https://skillicons.dev/icons?i=git" /><br><br>
+  <img src="https://skillicons.dev/icons?i=github" /><br><br>
+  <img src="https://skillicons.dev/icons?i=vercel" /><br><br>
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</p>
+
+</td>
+
+<td valign="top" width="50%">
+
+## 🧠 Core Concepts
+
+<p align="center">
+
+🧩 Data Structures & Algorithms <br><br>
+
+⚙️ Object-Oriented Programming <br><br>
+
+🌐 REST APIs & WebSockets <br><br>
+
+🗄️ DBMS & SQL <br><br>
+
+💻 Operating Systems <br><br>
+
 🔗 Computer Networks
+
 </p>
 
-## 📊 GitHub Stats
+</td>
+</tr>
+</table>
+
+
+# ⚡ Currently Building
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pranaykumarjha&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=Pranaykumarjha&theme=tokyonight&hide_border=true" />
+🚀 Production-Level Full Stack Projects <br/>
+🧠 AI-Powered Applications <br/>
+📈 DSA & Problem Solving <br/>
+🌍 Exploring Open Source Contributions
 </p>
 
 ---
 
-## 🐍 Contribution Activity
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github.com/Pranaykumarjha/Awwards/blob/output/github-contribution-grid-snake.svg" />
+
+  <img height="170" src="https://streak-stats.demolab.com?user=Pranaykumarjha&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-## 📊 What I'm Focused On
 
 <p align="center">
-🚀 Building <b>production-level projects</b> &nbsp;&nbsp;•&nbsp;&nbsp;
-🧠 Improving <b>DSA & problem-solving</b> &nbsp;&nbsp;•&nbsp;&nbsp;
-🎯 Preparing for <b>software engineering internships</b>
+  <img width="760" src="https://github-readme-activity-graph.vercel.app/graph?username=Pranaykumarjha&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 📜 Certifications
-
-* 🏅 Generative AI for Everyone — DeepLearning.AI
-  [View Certificate](https://coursera.org/share/82569b07ad9fc26a70096b27d5571d42)
-
-* ☁️ AWS Cloud Practitioner Essentials — Amazon Web Services
-  [View Certificate](https://coursera.org/share/192778d9eb00b8a405ddfa72e8ebef65)
-
----
-
-## 📫 Connect With Me
+# 🐍 Contribution Activity
 
 <p align="center">
-🌐 <a href="https://jocular-blancmange-d2b8ce.netlify.app/">Portfolio</a> &nbsp;&nbsp;•&nbsp;&nbsp;
-💼 <a href="https://linkedin.com/in/pranay-jha-530266328/">LinkedIn</a>
+  <img src="https://github.com/Pranaykumarjha/Awwards/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
-## ⚡ Fun Fact
+# 🏆 Certifications
 
 <p align="center">
-I enjoy debugging complex issues and turning ideas into working products 🚀
+  🏅 Generative AI for Everyone — DeepLearning.AI <br/><br/>
+  ☁️ AWS Cloud Practitioner Essentials — AWS
 </p>
 
 ---
 
-<!-- 🔥 FULL-WIDTH FOOTER -->
+# 📫 Connect With Me
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:2C5364,100:0F2027&height=160&section=f
+<p align="center">
+  <a href="https://linkedin.com/in/pranay-jha-530266328">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+  </a>
+
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2C5364,50:203A43,100:0F2027"/>
+</p>
+
+<p align="center">
+  <b>Build. Learn. Ship. Repeat. 🚀</b>
+</p>
