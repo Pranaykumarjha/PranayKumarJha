@@ -75,11 +75,11 @@ Real-time AI learning platform with voice + text interactions, adaptive learning
 </p>
 
 <p align="center">
-  <a href="YOUR_LIVE_LINK">
+  <a href="https://full-stack-m551fscdg-pranay-kumar-jhas-projects.vercel.app/">
     <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit-00C2FF?style=for-the-badge"/>
   </a>
 
-  <a href="YOUR_GITHUB_LINK">
+  <a href="https://github.com/Pranaykumarjha/FullStack">
     <img src="https://img.shields.io/badge/📂%20Source%20Code-GitHub-24292F?style=for-the-badge"/>
   </a>
 </p>
